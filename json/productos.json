@@ -1,0 +1,51 @@
+[
+    {
+        "nombre": "zapato negro",
+        "marca": "CurConfort",
+        "modelo": "0215",
+        "precio": 7000,
+        "stock": 30,
+        "img": "IMG_20210903_143014.jpg"
+    },
+    {
+        "nombre": "zapato marron",
+        "marca": "CurConfort",
+        "modelo": "9222",
+        "precio": 7000,
+        "stock": 20,
+        "img": "IMG_20210903_143014.jpg"
+    },
+    {
+        "nombre": "zapatilla de vestir",
+        "marca": "CurConfort",
+        "modelo": "50152",
+        "precio": 5000,
+        "stock": 15,
+        "img": "IMG_20210929_162042.jpg"
+    },
+    {
+        "nombre": "zapatilla de vestir",
+        "marca": "CurConfort",
+        "modelo": "45451",
+        "precio": 5500,
+        "stock": 35,
+        "img": "IMG_20210929_162211.jpg"
+    },
+    {
+        "nombre": "zapatilla de vestir",
+        "marca": "CurConfort",
+        "modelo": "5516",
+        "precio": 6400,
+        "stock": 40,
+        "img": "IMG_20210929_162443.jpg"
+    },
+    {
+        "nombre": "zapatilla de vestir",
+        "marca": "CurConfort",
+        "modelo": "1561",
+        "precio": 8000,
+        "stock": 26,
+        "img": "IMG_20210929_163239.jpg"
+    }
+
+] 
