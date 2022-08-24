@@ -34,7 +34,7 @@ async function mostrarProductos() {
                 <td>${producto.precio}</td>
                 <td>${producto.stock}</td>
                 <td><img src="./img/${producto.img}"></td>
-                <td><button class="btn btn-dark"> Comprar </button>
+                <td><button class="btn btn-dark" > <a href="formulario.html"> Comprar <a/></button>
             </tr>
         `
 })}
